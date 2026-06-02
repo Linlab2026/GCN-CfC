@@ -9,7 +9,6 @@ The repository is organized as follows:
 - `classification/`: GCN preprocessing, training, testing, prediction, and embedding export scripts.
 - `cfc_part/`: CfC model definitions and training scripts for latent embedding analysis.
 - `analysis/`: MoleculeNet benchmark scripts, oversmoothing analysis, exported embeddings, and result files.
-- `pad4/`: manuscript LaTeX files and figures.
 
 ## Environment Setup
 
