@@ -1,0 +1,19 @@
+{
+  "test_metrics": {
+    "accuracy": 0.9901380670611439,
+    "f1": 0.9795918367346939,
+    "auc": 0.9994890355546093
+  },
+  "pre_cfc_latent": {
+    "nearest_opposite_label_distance": 2.5149305125430255,
+    "silhouette_score": 0.4425418972969055
+  },
+  "post_cfc_latent": {
+    "nearest_opposite_label_distance": 3.5864788491345014,
+    "silhouette_score": 0.7518582344055176
+  },
+  "seed": 37,
+  "epochs": 50,
+  "input_dim": 192,
+  "cfc_units": 224
+}
