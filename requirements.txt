@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+networkx
+rdkit
+torch
+torch-geometric
+tensorflow
+bokeh
+gradio
