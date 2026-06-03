@@ -1,2 +1,0 @@
-dataset,num_molecules,num_tasks,train_size,val_size,test_size
-ESOL,1128,1,902,113,113

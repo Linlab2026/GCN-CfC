@@ -1,9 +1,0 @@
-{
-  "Plain-GCN": {
-    "nearest_opposite_label_distance": 2.514930497730037,
-    "silhouette_score": 0.4425418972969055
-  },
-  "GCN-CfC final": {
-    "skipped": "No --cfc-model-path supplied."
-  }
-}

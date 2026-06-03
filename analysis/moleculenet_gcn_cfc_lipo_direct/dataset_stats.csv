@@ -1,2 +1,0 @@
-dataset,num_molecules,num_tasks,train_size,val_size,test_size
-Lipophilicity,4200,1,3360,420,420

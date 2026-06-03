@@ -1,6 +1,0 @@
-dataset,num_molecules,num_tasks,train_size,val_size,test_size
-Tox21,7823,12,6258,782,783
-ClinTox,1480,2,1184,148,148
-ESOL,1128,1,902,113,113
-FreeSolv,642,1,513,64,65
-Lipophilicity,4200,1,3360,420,420
