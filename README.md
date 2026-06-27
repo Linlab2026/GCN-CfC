@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CGC is a molecular representation learning framework for compound-protein interaction prediction and PAD4 inhibitor screening. The workflow first converts molecules into graph objects using RDKit atom and bond descriptors. A graph convolutional network (GCN) extracts molecular graph embeddings, and a closed-form continuous-time (CfC) module further models latent molecular representations for binary classification and virtual screening.
+CGC is a molecular representation learning framework for compound-protein interaction prediction and PAD4 inhibitor screening. The workflow first converts molecules into graph objects using RDKit atom and bond descriptors. A graph convolutional network extracts molecular graph embeddings, and a closed-form continuous-time module further models latent molecular representations for binary classification and virtual screening.
 
 The repository is organized as follows:
 
